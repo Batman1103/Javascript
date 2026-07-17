@@ -52,3 +52,12 @@ var person={
 console.log(person.a);
 console.log(person.b);
 console.log(person);
+
+// Array
+const arr=[1,2,3,4,5];
+console.log(arr);
+console.log(typeof arr);
+
+const date=new Date();
+console.log(date);
+console.log(date);
